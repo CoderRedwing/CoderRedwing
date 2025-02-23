@@ -4,7 +4,7 @@
 
 
 
-### Welcome to my GitHub Profile  
+### Welcome to my GitHub Profile:  
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=A020F0&size=27&center=false&lines=My+Name+is+Ajitesh+Mishra...;I+am+a+Software+Developer...;Computer+Science+Student..."/>  
 
@@ -13,7 +13,7 @@ Passionate about technology and innovation. Developing skills in programming, al
 
 
 
-### ⚡🙋‍♂️ Contact Me  
+### Contact Me:  
 
 
 
