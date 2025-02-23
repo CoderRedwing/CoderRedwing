@@ -9,7 +9,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=A020F0&size=27&center=false&lines=My+Name+is+Ajitesh+Mishra...;I+am+a+Software+Developer...;Computer+Science+Student..."/>  
 
 <p> <i>Computer Science Student | Software Developer Engineer
-Passionate about technology and innovation. Developing skills in programming, algorithms, and data analysis. Focused on building scalable and efficient software solutions. Committed to continuous learning and always seeking opportunities to apply my knowledge and contribute to innovative technological solutions.</i></p>  
+Passionate about technology and innovation. Developing skills in programming, algorithms. Focused on building scalable and efficient software solutions. Committed to continuous learning and always seeking opportunities to apply my knowledge and contribute to innovative technological solutions.</i></p>  
 
 
 
